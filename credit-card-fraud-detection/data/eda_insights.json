@@ -1,0 +1,56 @@
+{
+  "memory_usage_mb": 69.53,
+  "dataset_shape": [
+    284807,
+    31
+  ],
+  "imbalance_ratio": 577.88,
+  "fraud_rate": 0.17,
+  "missing_values": {},
+  "duplicates_percentage": 0.379555277784605,
+  "top_10_features": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "significant_features": [
+    "V14",
+    "V4",
+    "V12",
+    "V11",
+    "V10",
+    "V3",
+    "V2",
+    "V16",
+    "V9",
+    "V7",
+    "V17",
+    "V1",
+    "V6",
+    "V21",
+    "V18",
+    "V5",
+    "V27",
+    "V8",
+    "V19",
+    "V20",
+    "V28",
+    "Time",
+    "V24",
+    "Amount"
+  ],
+  "amount_stats": {
+    "legitimate_mean": 88.29102242231328,
+    "fraudulent_mean": 122.21132113821139,
+    "max_transaction_amount": 25691.16,
+    "min_transaction_amount": 0.0,
+    "amount_std": 250.1201092401885
+  }
+}
