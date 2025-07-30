@@ -1,0 +1,13 @@
+{
+  "Random Forest": {
+    "n_estimators": 200,
+    "min_samples_split": 50,
+    "min_samples_leaf": 25,
+    "max_depth": null
+  },
+  "Decision Tree": {
+    "min_samples_split": 50,
+    "min_samples_leaf": 50,
+    "max_depth": 15
+  }
+}
