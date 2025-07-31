@@ -89,7 +89,7 @@ This project demonstrates skills directly applicable to:
 - **Financial Services**: Risk assessment and regulatory compliance
 - **Cybersecurity**: Intrusion detection and threat analysis
 
-## 📚 Repository Structure
+## Repository Structure
 
 ```
 credit-card-fraud-detection/
@@ -139,7 +139,7 @@ This project showcases:
 - **Problem-Solving**: Handling real-world data science challenges
 - **Industry Readiness**: Understanding of deployment limitations and solutions
 
-## 📊 Key Visualizations
+## Key Visualizations
 
 ### Performance Metrics Comparison
 - Model performance vs industry benchmarks
@@ -147,7 +147,7 @@ This project showcases:
 - Confusion matrix with business cost analysis
 - Threshold optimization for maximum business value
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 While this project achieved moderate but appreciable performances, future work could include:
 
@@ -156,7 +156,7 @@ While this project achieved moderate but appreciable performances, future work c
 3. **Deep Learning Comparison**: Benchmark against neural network approaches
 4. **Deployment**: This project can be retrained using the real dataset with interpretable features and deployed for fraud detection.
 
-## 📝 Conclusion
+## Conclusion
 
 This credit card fraud detection project successfully demonstrates machine learning capabilities, achieving industry-leading performance metrics while maintaining practical business focus. The 97.7% ROC-AUC and comprehensive evaluation methodology showcase technical expertise suitable for ML roles in healthcare, automotive, and financial services industries.
 
