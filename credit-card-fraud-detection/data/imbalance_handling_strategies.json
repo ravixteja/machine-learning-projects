@@ -1,0 +1,18 @@
+{
+  "original": {
+    "Legitimate": 227428,
+    "Fraudulent": 417
+  },
+  "smote": {
+    "Legitimate": 227428,
+    "Fraudulent": 227428
+  },
+  "borderline_smote": {
+    "Legitimate": 227428,
+    "Fraudulent": 227428
+  },
+  "smote_tomek": {
+    "Legitimate": 227428,
+    "Fraudulent": 227428
+  }
+}
